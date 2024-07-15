@@ -82,7 +82,7 @@ html{
 #home::before{ 
     content: "";
     position: absolute;
-    background: url("platter-2009590_1280 (5).jpg") no-repeat center center/cover;
+    background: url('https://cdn.pixabay.com/photo/2017/01/26/02/06/platter-2009590_1280.jpg') no-repeat center center/cover;
     height: 642px;
     top:0px;
     left:0px;
